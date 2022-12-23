@@ -1,4 +1,3 @@
-if game.PlaceId == 8343259840 then
 	local Success, Error = pcall(function()
 		repeat wait() until game:IsLoaded()
 
@@ -2122,4 +2121,3 @@ if game.PlaceId == 8343259840 then
 			local MSGBox = messagebox("this shit errord mane", "The pasting has failed...", 0)
 		end)
 	end
-end
